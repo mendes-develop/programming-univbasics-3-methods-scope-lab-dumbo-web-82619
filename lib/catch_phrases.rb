@@ -6,5 +6,5 @@ def mario
 end
 
 def toadstool
-  puts mario
+  mario
 end
